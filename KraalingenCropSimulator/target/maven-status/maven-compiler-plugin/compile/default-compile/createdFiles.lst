@@ -1,0 +1,9 @@
+kraalingen\kraalingencropsimulator\KraalingenCropSimulator.class
+kraalingen\kraalingencropsimulator\Plant.class
+kraalingen\kraalingencropsimulator\IWeather.class
+kraalingen\kraalingencropsimulator\Soil.class
+kraalingen\kraalingencropsimulator\Weather.class
+kraalingen\kraalingencropsimulator\IPlant.class
+kraalingen\kraalingencropsimulator\ISoil.class
+kraalingen\kraalingencropsimulator\CropSimulator.class
+kraalingen\kraalingencropsimulator\ISimulationController.class
